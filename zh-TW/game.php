@@ -64,7 +64,7 @@ return [
     'rescaleNowInfo' => '若沒勾選，新玩家在下一局才顯示',
     'DAScancel' => 'DAS 取消',
     'DAScancelInfo' => '當切換方向時取消 DAS',
-    'FPSDAS' => '鎖定幀率的DAS',
+    'FPSDAS' => '鎖定幀率的 DAS',
     'FPSDASInfo' => '僅在固定時間間隔執行DAS計算(較不精確的時間)',
     'webGL' => '使用 WebGL',
     'webGLInfo' => '如果你的瀏覽器到了 :year 仍不支援 WebGL，請停用此選項',
